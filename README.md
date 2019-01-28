@@ -2,7 +2,7 @@
 
 In this project, you will demonstrate proficiency by writing unit tests and production code to satisfy the Minimum Viable Product described below.
 
-Some of the topics covered were
+Some of the topics covered were:
 
 - introduction to automated testing.
 - using `Jest` as a test runner.
